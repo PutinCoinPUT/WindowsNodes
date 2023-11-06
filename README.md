@@ -1,4 +1,4 @@
-# WindowsNode
+# WindowsNodes
 
 Here you can clone/download the Windows-Node Wallets for PUTinCoin:
 

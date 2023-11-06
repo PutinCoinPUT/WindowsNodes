@@ -5,7 +5,7 @@ Here you can clone/download the Windows-Node Wallets for PUTinCoin:
 PutinCoin-qt.exe.zip = Windows GUI Node Wallet (this is the wallet, most of you use in Windows!!)<br />
 putincoind.exe.zip = Wincows CLI Node Wallet
 
-Download, extract and run! (We recommend to save the .EXE directly to C:\Windows and then clicking with right mouse button and choose "Sent to Desktop", which will generate a Symlink on the destop for easier starting and, on the other hand, have the real .EXE in a save place to avoid deleting it by accident.)
+Download, extract and run! (We recommend to save the .EXE directly to C:\Windows and then clicking on it with the right mouse button and then choose "Sent to Desktop", which will generate a Symlink on the destop for easier starting and, on the other hand, have the real .EXE in a save place to avoid deleting it by accident.)
 
 The new "CLI Node wallet" must be run from terminal and can be started by background service, if wished. It has been developed for server usage (like setting up a Windows server node for API connection to the PUT blockchain). Normal Windows users should stick to the "GUI Node Wallet".
 

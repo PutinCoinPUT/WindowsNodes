@@ -1,6 +1,6 @@
 # WindowsNode
 
-Here you can clone/download the Windows-Node Wallet for PUTinCoin:
+Here you can clone/download the Windows-Node Wallets for PUTinCoin:
 
 PutinCoin-qt.exe.zip = Windows GUI Node Wallet<br />
 putincoind.exe.zip = Wincows CLI Node Wallet
